@@ -1,0 +1,7 @@
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\bin\Debug\Auto.exe.config
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\bin\Debug\Auto.exe
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\bin\Debug\Auto.pdb
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\obj\Debug\Auto.csprojAssemblyReference.cache
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\obj\Debug\Auto.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\obj\Debug\Auto.exe
+C:\Users\User\Documents\. Tom\. 6OI 2019-2020\. Programmeren Huiswerk\Auto\Auto\obj\Debug\Auto.pdb
